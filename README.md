@@ -1,3 +1,3 @@
 # SimpleWebPage
 
-This is my simple hosted webpage.
+This is a simple hosted webpage. Nothing fancy. Just a test page hosted on Github.
